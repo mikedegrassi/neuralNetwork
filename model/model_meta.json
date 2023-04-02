@@ -1,0 +1,1 @@
+{"inputUnits":[3],"outputUnits":1,"inputs":{"education":{"dtype":"number","min":1,"max":367},"faculty":{"dtype":"number","min":1,"max":218},"publications":{"dtype":"number","min":1,"max":1000}},"outputs":{"score":{"dtype":"number","min":43.36,"max":100}},"isNormalized":true}
