@@ -25,5 +25,5 @@ async function predict() {
     console.log(result)
 
     let endResult = document.getElementById('result')
-    endResult.innerHTML = `Predicted Score = ${result[0].score}/100x    `;
+    endResult.innerHTML = `Predicted Score = ${result[0].score}/100    `;
 }
